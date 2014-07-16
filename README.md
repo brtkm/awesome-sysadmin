@@ -172,6 +172,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [VestaCP](http://www.vestacp.com/) - Hosting panel for Linux but with Nginx.
 * [Virtualmin](http://www.virtualmin.com/) - Control panel for Linux based on webmin.
 * [ZPanel](http://www.zpanelcp.com/) - Control panel for Linux, BSD, and Windows.
+* [Froxlor](http://www.froxlor.org/) - Control panel developed by system administrators.
 
 ## IMAP/POP3
 *IMAP/POP3 mail servers.*
@@ -314,6 +315,8 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Security tools.*
 
 * [Fail2Ban](http://www.fail2ban.org/wiki/index.php/Main_Page) - Scans log files and takes action on IPs that show malicious behavior.
+* [BFD (Brute Force Detection)](https://www.rfxn.com/projects/brute-force-detection/) - Modular shell script for parsing application logs and checking for authentication failures. Work with APF.
+* [APF (Advanced Policy Firewall)](https://www.rfxn.com/projects/advanced-policy-firewall/) - Firewall based on iptables without long iptables commands. Work with BFD.
 
 ## SMTP
 *SMTP servers.*
@@ -332,6 +335,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
 * [Docker](http://www.docker.com/) - Open platform for developers and sysadmins to build, ship, and run distributed applications.
 * [OpenVZ](http://openvz.org) - Container-based virtualization for Linux.
+* [OVZ Web Panel](https://code.google.com/p/ovz-web-panel/) - GUI web-based frontend for controlling of the hardware and virtual servers with the OpenVZ virtualization technology.
 
 ## SSH
 *SSH tools.*
